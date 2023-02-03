@@ -1,5 +1,5 @@
 <template>
-
+  <Button label="PrimeVue" />
 </template>
 
 <script setup>
